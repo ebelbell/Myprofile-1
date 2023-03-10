@@ -1,5 +1,5 @@
 # Myprofile3
-![alt text](![image0](https://user-images.githubusercontent.com/127261209/224444167-956c0f00-aa05-4bdf-8a3c-0e79512d5c36.jpg)
+![alt text](https://user-images.githubusercontent.com/127261209/224444167-956c0f00-aa05-4bdf-8a3c-0e79512d5c36.jpg)
 
 -
 -
