@@ -13,8 +13,11 @@ My journey at Year Up was nerve wrecking but overall challenging. I've came in n
 
 -
 -
-## Accomplishment
-I recently finished coursera that resulted in being awarded the Google Project Management Certificate. Following up I was able to receieve an Internship at LikeWise. I'm proud of how far I came to be where I am now for the help of my mentors and peers.
+## Accomplishments
+- Awarded the Google Project Management Certificate.
+- Earned an Internship at LikeWise.
+- I'm proud of how far I came to be where I am now for the help of my mentors and peers.
+
 ## Coursera Certificate
 ![alt text](https://user-images.githubusercontent.com/127261209/224450528-8e534c96-b4ff-4781-9d80-040796391596.png)
 -
